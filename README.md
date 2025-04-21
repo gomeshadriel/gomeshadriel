@@ -1,12 +1,13 @@
 
 # Saudações! :vulcan_salute:
 
-Atuo como UI/UX designer a 2 anos, tenho experiência na construção de sites, apps, landing pages e sistemas. Atualmente, estou aprimorando minhas habilidades em desenvolvimento front-end enquanto curso Ciência da Computação. Tenho a intenção de me especializar em desenvolvimento, começando pelo front-end devido à minha experiência atual e, posteriormente, expandindo para fullstack.
+Atuei como UI/UX designer por 3 anos, atualmente sou desenvolvedor fullstack, tenho experiência na construção de sites, apps, landing pages e sistemas. Cursando Ciência da Computação. Tenho a intenção de me especializar em desenvolvimento, começando pelo front-end devido à minha experiência atual e, posteriormente, expandindo para fullstack.
 
-
-- 💼 Estagiário em Desenvolvimento web
+- 🎨 3 anos de experiência em UI/UX Design.
+- 💼 Atualmente atuo como desenvolvedor fullstack júnior, criando soluções para o setor de previdência.
 - 🎓 Cursando Ciência da Computação
-- 🌱 Aprendendo React e Node
+- 🌱 React, TypeScript, Node.js, SQL e JavaScript.
+- 🧠 Apaixonado por construir interfaces que aproximam pessoas e tecnologia, com foco em experiência humano-computador.
 - 🎮 Jogando: Overwatch 2 | Fortnite | Marvel Rivals
 
 
